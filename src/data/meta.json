@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
+    "title": "Transformation Webring",
+    "description": "A webring for all things transformation.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "url": "https://transformationwebring.netlify.app/",
+    "repo": "https://github.com/jomarcenter-mjm/Transformation-Webring-85c38",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Lilli net",
+            "url": "https://lillinet.neocities.org/"
         }
     ]
 }
